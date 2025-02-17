@@ -1,0 +1,9 @@
+﻿<Application x:Class="_222_Kaluzhskikh_Ochtova_PR3_2.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_222_Kaluzhskikh_Ochtova_PR3_2"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
